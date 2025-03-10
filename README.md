@@ -36,9 +36,6 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faculpez&show_icons=true&theme=radical" alt="Facundo López's GitHub stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faculpez&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
